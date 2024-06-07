@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/delivary-app/static/css/main.bd785ef5.css",
+    "main.js": "/delivary-app/static/js/main.2d0db1f7.js",
+    "static/js/453.83d49121.chunk.js": "/delivary-app/static/js/453.83d49121.chunk.js",
+    "index.html": "/delivary-app/index.html",
+    "main.bd785ef5.css.map": "/delivary-app/static/css/main.bd785ef5.css.map",
+    "main.2d0db1f7.js.map": "/delivary-app/static/js/main.2d0db1f7.js.map",
+    "453.83d49121.chunk.js.map": "/delivary-app/static/js/453.83d49121.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd785ef5.css",
+    "static/js/main.2d0db1f7.js"
+  ]
+}
